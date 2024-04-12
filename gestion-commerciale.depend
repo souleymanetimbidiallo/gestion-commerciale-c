@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1496238549 source:d:\documents\c\projet\gestion commerciale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1494781112 source:e:\setup\film\gestion commerciale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1494791914 source:d:\td\autres\gestion commerciale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
